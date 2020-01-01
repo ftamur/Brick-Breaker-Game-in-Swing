@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"domain.powerups.timedPowerups","c":"ChemicalBall","l":"activate()"},{"p":"domain.powerups.timedPowerups","c":"ChemicalBall","l":"ChemicalBall()","url":"%3Cinit%3E()"},{"p":"domain.powerups.timedPowerups","c":"ChemicalBall","l":"deactivate()"},{"p":"domain.powerups.timedPowerups","c":"ChemicalBall","l":"isInUse()"}]

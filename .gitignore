@@ -1,0 +1,16 @@
+
+# Default ignored files
+/workspace.xml
+.idea/**
+bin/**
+target/**
+.settings/**
+META-INF/**
+build.properties
+representations.aird
+SaveFiles/**
+/bin/
+/the-hateful-six.iml
+/TheHatefulSix.iml
+/mongo-java-driver-3.11.0.jar
+/mongodb-driver-3.11.2-javadoc.jar

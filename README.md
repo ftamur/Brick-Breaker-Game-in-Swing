@@ -1,4 +1,4 @@
-The Hateful Six - Fall19 Term Project
+The Hateful Six - Koc University Fall19 Comp302 Term Project
 
 Project: Bricking Bad Game
 

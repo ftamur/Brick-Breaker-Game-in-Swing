@@ -2,6 +2,8 @@ The Hateful Six - Koc University Fall19 Comp302 Term Project
 
 Project: Bricking Bad Game
 
+![](demo.gif)
+
 Team Members:<br />
 Anıl Kul<br />
 Harun Şaşmaz<br />
